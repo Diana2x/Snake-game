@@ -1,4 +1,4 @@
-# Snake-game 🐍
+# 🐍 Snake-game 🐍
 
 classic snake game, in case you arre feeling the Nokia nostalgic.
 
