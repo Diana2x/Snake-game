@@ -1,2 +1,2 @@
-# Snake-game
-snake game
+# Snake-game 🐍
+snake game 
