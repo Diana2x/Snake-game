@@ -1,6 +1,6 @@
 # 🐍 Snake-game 🐍
 
-classic snake game, in case you arre feeling the Nokia nostalgic.
+classic snake game, in case you are feeling the Nokia nostalgic.
 
 Live Version: [Here 👉](https://diana2x.github.io/Snake-game/)
 
